@@ -1,0 +1,24 @@
+NODE JS
+VS CODE
+GOOGLE CHROME
+
+
+SOFTWARE CENTER
+
+1. node -v
+2.npm -v
+3. echo registry=http://infynexus/nexus/repository/npm-all/   >.npmrc
+
+4. d:
+5. npm install -g create-react-app
+6. create-react-app my-app1
+
+7. npm start
+
+8. automatic(http://localhost:3000/)
+
+
+
+
+
+
